@@ -1,1 +1,1 @@
-console.log("adding bed");
+console.log("adding bed is very expensive");
